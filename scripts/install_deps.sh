@@ -9,11 +9,11 @@ function install() {
 }
 
 # setup mason
-./scripts/setup.sh --config local.env
-source local.env
+#./scripts/setup.sh --config local.env
+#source local.env
 
-install boost 1.67.0
-install freetype 2.7.1
-install protozero 1.6.8
-install sdf-glyph-foundry 0.2.0
-install gzip-hpp 0.1.0
+# install boost 1.67.0
+# install freetype 2.7.1
+# install protozero 1.6.8
+# install sdf-glyph-foundry 0.2.0
+# install gzip-hpp 0.1.0

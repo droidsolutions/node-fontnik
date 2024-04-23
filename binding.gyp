@@ -21,7 +21,7 @@
         '-Wconversion',
         '-Wshadow',
         '-Wfloat-equal',
-        '-Wuninitialized',
+#'-Wuninitialized',
         '-Wunreachable-code',
         '-Wold-style-cast',
         '-Wno-error=unused-variable',
